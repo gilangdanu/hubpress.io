@@ -5,6 +5,26 @@
     "branch": "gh-pages"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://gilangdanu.github.io/writing",
+    "hubpress": "https://www.gilangda.nu/writing",
+    "theme": "//gilangdanu.github.io/writing/themes/casper",
+    "images": "https://gilangdanu.github.io/writing/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ],
+    "_compiled": true,
+    "beforeCreate": [
+      null
+    ]
   }
 }
