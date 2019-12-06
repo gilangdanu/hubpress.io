@@ -1,2 +1,2 @@
-= Some content will be here soon. Please be patient :-)
-// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+= Some content will be here soon. Please be patient.
+I'll write again. Soon.
