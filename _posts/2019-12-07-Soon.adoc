@@ -1,0 +1,6 @@
+= Some writings will be here soon
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+:hp-image: /images/photo-1533656878820-0331502c8f70.jpg
+:published_at: 2019-12-07
+:hp-tags: writings
+:hp-alt-title: Soon
